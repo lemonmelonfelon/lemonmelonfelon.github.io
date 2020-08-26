@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pizzatopia</title>
+</head>
+<body>
+
+ <main>
+<h1>Pizzatopia</h1>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Frp3kPD0XtuaZi%2Fgiphy.gif&f=1&nofb=1" height="200" /></p>
+<hr>
+<p>Welcome to Pizzatopia, the best Pizza site ever</p>
+<p>Name</p> <input type="text" placeholder="your name here">
+<p>Address</p> <input type="text" placeholder="your residence here">
+<p>Phone Number</p> <input type="text" placeholder="your number">
+  </main>
+
+
+
+</body>
+</html>
